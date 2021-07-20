@@ -5,4 +5,4 @@
 
 派手な事をやって目立ちたい
 
-![image](/images/04-shoji/image.jpg))
+![image](/images/04-shoji/image.jpg)
